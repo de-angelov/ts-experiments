@@ -1,0 +1,78 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.3.1",
+  "deps": {
+    "nx": "19.3.1"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".devcontainer/.dockerignore",
+        "hash": "1989944385107386753"
+      },
+      {
+        "file": ".devcontainer/Dockerfile",
+        "hash": "1127663955823854322"
+      },
+      {
+        "file": ".devcontainer/devcontainer.json",
+        "hash": "5877765337360178128"
+      },
+      {
+        "file": ".devcontainer/docker-compose.yml",
+        "hash": "14013703680249284756"
+      },
+      {
+        "file": ".devcontainer/init.sh",
+        "hash": "17402106114527888101"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "10267590686208524598"
+      },
+      {
+        "file": ".env",
+        "hash": "8507669179223877853"
+      },
+      {
+        "file": ".gitattributes",
+        "hash": "640909858032520720"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "11887843286771510200"
+      },
+      {
+        "file": ".nx/installation/package-lock.json",
+        "hash": "13301819355070929986"
+      },
+      {
+        "file": ".nx/installation/package.json",
+        "hash": "3368498068392225072"
+      },
+      {
+        "file": ".nx/nxw.js",
+        "hash": "11254603345854076312"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "9427244043877603174"
+      },
+      {
+        "file": "nx",
+        "hash": "17165975525224888679"
+      },
+      {
+        "file": "nx.bat",
+        "hash": "16119536321561623970"
+      },
+      {
+        "file": "nx.json",
+        "hash": "7111735501627103681"
+      }
+    ]
+  }
+}

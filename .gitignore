@@ -1,0 +1,5 @@
+node_modules
+console/**/*.js
+
+.nx/installation
+.nx/cache

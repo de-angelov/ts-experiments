@@ -1,0 +1,26 @@
+[NX Daemon Server] - 2024-06-22T14:39:50.907Z - Started listening on: /tmp/0c9a453fad615c83c57d/d.sock
+[NX Daemon Server] - 2024-06-22T14:39:50.910Z - [WATCHER]: Subscribed to changes within: /work (native)
+[NX Daemon Server] - 2024-06-22T14:39:50.915Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-22T14:39:50.917Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-22T14:39:50.919Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-22T14:39:50.920Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-22T14:39:50.936Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-22T14:39:50.936Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-22T14:39:50.936Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-22T14:39:50.962Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-22T14:39:50.963Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-22T14:39:50.963Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 42. Response time: 1.
+[NX Daemon Server] - 2024-06-22T14:39:50.964Z - Time taken for 'total for creating and serializing project graph' 42.26379699999998ms
+[NX Daemon Server] - 2024-06-22T14:39:50.964Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-22T14:40:15.611Z - [WATCHER]: .editorconfig was modified
+[NX Daemon Server] - 2024-06-22T14:40:15.612Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-06-22T14:40:15.612Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-06-22T14:40:15.613Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-22T14:40:15.613Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-22T14:40:15.613Z - Time taken for 'changed-projects' 0.06686199999967357ms
+[NX Daemon Server] - 2024-06-22T14:40:15.713Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-22T14:40:15.714Z - [REQUEST]: .editorconfig
+[NX Daemon Server] - 2024-06-22T14:40:15.714Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-22T14:40:15.728Z - Time taken for 'hash changed files from watcher' 0.2627329999995709ms
+[NX Daemon Server] - 2024-06-22T14:40:54.680Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-22T14:40:54.689Z - Closed a connection. Number of open connections: 0
