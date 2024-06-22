@@ -2,6 +2,8 @@
   "version": "6.0",
   "nxVersion": "19.3.1",
   "deps": {
+    "@nx/js": "19.3.1",
+    "@nx/workspace": "19.3.1",
     "nx": "19.3.1"
   },
   "pathMappings": {},
@@ -31,47 +33,31 @@
       },
       {
         "file": ".editorconfig",
-        "hash": "10267590686208524598"
-      },
-      {
-        "file": ".env",
-        "hash": "8507669179223877853"
-      },
-      {
-        "file": ".gitattributes",
-        "hash": "640909858032520720"
+        "hash": "5443105041930014821"
       },
       {
         "file": ".gitignore",
-        "hash": "11887843286771510200"
+        "hash": "17107242987988535020"
       },
       {
-        "file": ".nx/installation/package-lock.json",
-        "hash": "13301819355070929986"
+        "file": ".vscode/extensions.json",
+        "hash": "3833545590435012078"
       },
       {
-        "file": ".nx/installation/package.json",
-        "hash": "3368498068392225072"
-      },
-      {
-        "file": ".nx/nxw.js",
-        "hash": "11254603345854076312"
-      },
-      {
-        "file": ".vscode/settings.json",
-        "hash": "9427244043877603174"
-      },
-      {
-        "file": "nx",
-        "hash": "17165975525224888679"
-      },
-      {
-        "file": "nx.bat",
-        "hash": "16119536321561623970"
+        "file": "README.md",
+        "hash": "15706198028193529778"
       },
       {
         "file": "nx.json",
-        "hash": "7111735501627103681"
+        "hash": "14977852485590650733"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6279063803981194329"
+      },
+      {
+        "file": "package.json",
+        "hash": "14974862509558144559"
       }
     ]
   }
